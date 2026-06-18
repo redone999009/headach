@@ -1,0 +1,30 @@
+.logo img{
+    width: 50px;
+    border-radius: 50%;
+}
+.gl img{
+    height: 500px;
+}
+
+.intro{
+    background-color: red;
+    color: gold;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+.intro:hover{
+    background-color: rgb(8, 236, 8);
+    color: rgb(255, 254, 249);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+.para{
+    border: yellow solid 5px;
+    text-align: center;
+}
